@@ -1,13 +1,13 @@
 {
   "id": "aga",
-  "tag": "metal",
-  "name": "ruby_table",
+  "tag": "wood",
+  "name": "myblock",
   "color": "#834601",
-  "sound": "metal",
-  "is_stone": true,
-  "is_table": true,
+  "sound": "wood",
+  "is_stone": false,
+  "is_table": false,
   "crafting": {
-    "materials": { "I": { "item": "aga:steel" } },
+    "materials": { "I": { "item": "minecraft:stick" } },
     "craft": ["III", "III", "III"]
   },
   "tag_table": "crafting_table",
