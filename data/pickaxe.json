@@ -1,0 +1,17 @@
+{
+  "level": ["bedrock", "wood", "stone", "iron", "diamond", "netherite"],
+  
+  "null": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'minecraft:is_pickaxe')",
+
+  "bedrock": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'aga:pickaxe_bedrock')",
+  
+  "wood": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'aga:pickaxe_1')||(query.equipped_item_any_tag('slot.weapon.mainhand', 'minecraft:is_pickaxe')",
+
+  "stone": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'aga:pickaxe_2') || (query.get_equipped_item_name('main_hand') == 'stone_pickaxe') || (query.get_equipped_item_name('main_hand') == 'iron_pickaxe') || (query.get_equipped_item_name('main_hand') == 'diamond_pickaxe') || (query.get_equipped_item_name('main_hand') == 'netherite_pickaxe')",
+
+  "iron": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'aga:pickaxe_3')||(query.get_equipped_item_name('main_hand') == 'iron_pickaxe') || (query.get_equipped_item_name('main_hand') == 'diamond_pickaxe') || (query.get_equipped_item_name('main_hand') == 'netherite_pickaxe')",
+  
+  "diamond": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'aga:pickaxe_4')||(query.get_equipped_item_name('main_hand') == 'diamond_pickaxe') || (query.get_equipped_item_name('main_hand') == 'netherite_pickaxe')",
+
+  "netherite": "(query.equipped_item_any_tag('slot.weapon.mainhand', 'aga:pickaxe_5')||(query.get_equipped_item_name('main_hand') == 'netherite_pickaxe')"
+}

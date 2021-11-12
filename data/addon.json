@@ -1,0 +1,11 @@
+{
+  "name": "Addon",
+  "description": "My addon",
+  "uuid": [
+    "f95918eb-9614-46e9-ad80-5a0b5e87e788",
+    "9c89a3ae-9f65-4c5b-a327-c8ffb76a73be",
+    "1688a907-eddc-48cb-82a8-17b479d86c5c",
+    "1404dde9-a533-4c39-8cae-8ec2892a359e"
+  ],
+  "pluginsOn": true
+}

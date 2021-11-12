@@ -1,0 +1,54 @@
+{
+  "Translate": [
+    {
+      "Translate": "",
+      "lang": ["es_MX", "es_ES"],
+      "tools": {
+        "pickaxe": "Pico de :name:",
+        "shovel": "Pala de :name:",
+        "sword": "Espada de :name:",
+        "axe": "Hacha de :name:",
+        "hoe": "Azada de :name:"
+      },
+      "armor": {
+        "helmet": "Casco de :name:",
+        "chestplate": "Pechera de :name:",
+        "leggins": "Pantalones de :name:",
+        "boots": "Botas de :name:"
+      },
+      "blocks": {
+        "ore": "Mineral de :name:",
+        "raw": "Bloque de :name: crudo",
+        "block": "Bloque de :name:",
+        "deepslate_ore": "Mineral de :name: de pizarra abismal",
+        "chisel": "Bloque de :name: cincelado"
+      },
+      "items": { "ingot": "Lingote de :name:", "raw": ":name: crudo", "egg": "Generador de :name:" }
+    },
+    {
+      "Translate": "",
+      "lang": ["en_US", "en_GB"],
+      "tools": {
+        "pickaxe": ":name: pickaxe",
+        "shovel": ":name: shovel",
+        "sword": ":name: sword",
+        "axe": ":name: axe",
+        "hoe": ":name: hoe"
+      },
+      "armor": {
+        "helmet": ":name: helmet",
+        "chestplate": ":name: chestplate",
+        "leggins": ":name: leggins",
+        "boots": ":name: boots"
+      },
+      "blocks": {
+        "ore": ":name: ore",
+        "raw": "raw :name: block",
+        "block": ":name: block",
+        "deepslate_ore": "Deepslate :name: ore",
+        "chisel": "Chiseled Block of :name:"
+      },
+      "items": { "ingot": ":name: ingot", "raw": "raw :name:", "egg": "Generador de :name:" }
+    }
+  ]
+}

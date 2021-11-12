@@ -1,0 +1,16 @@
+{
+  "id": "aga",
+  "tag": "metal",
+  "name": "ruby_table",
+  "color": "#834601",
+  "sound": "metal",
+  "is_stone": true,
+  "is_table": true,
+  "crafting": {
+    "materials": { "I": { "item": "aga:steel" } },
+    "craft": ["III", "III", "III"]
+  },
+  "tag_table": "crafting_table",
+  "pickaxe_lvl": 3,
+  "destroy_time": 5
+}
