@@ -6,4 +6,4 @@
 
 [NodeJS]: https://nodejs.org/
 [Addons Maker Plugin]: https://marketplace.visualstudio.com/items?itemName=aga.addons-maker-plugin/
-[Plugins]: 
+[Plugins]: https://adriancraft07.github.io/Addons-Maker/Plugins
