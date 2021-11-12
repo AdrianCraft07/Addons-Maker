@@ -1,26 +1,9 @@
-# JavaScript
-## VS Code Aga Addons Maker Plugins
--------------------
+# Addons Maker
+## by AdrianCraft
+### Este creador de addons acepta plugins los cuales pueden ser creados mas facilmente con la extencion [Addons Maker Plugin] de la tienda de VS Code en el lenguaje javaa script
+#### Este programa necesita tener [NodeJS] Instalado para funcionar
+#### Espero sea de utilidad para ustedes :D
 
-Esta extencion es para autocompletado de los plugins de el creador de addons.
-
-## Supported languages (file extensions)
-* JavaScript (.js)
-
-## Snippets
-
-En la siguiente lista se mostrara para que funciona cada uno
-
-| Trigger  | Content |
-| -------: | ------- |
-| `pl-`   | Create Plugin for addons maker|
-| `B-b`   | Create function Block for BP |
-| `R-b`   | Create function Block for RP |
-| `B-e`   | Create function Entity for BP |
-| `R-e`   | Create function Entity for RP |
-| `B-i`   | Create function Item for BP |
-| `R-i`   | Create function Item for RP |
-| `R-t`   | Create function Translate for RP |
-| `E-p`   | Import `plugin`/index.js |
-
-[code]: https://code.visualstudio.com/
+[NodeJS]: https://nodejs.org/
+[Addons Maker Plugin]: https://marketplace.visualstudio.com/items?itemName=aga.addons-maker-plugin/
+[Plugins]: 
