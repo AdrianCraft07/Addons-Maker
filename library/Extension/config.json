@@ -1,0 +1,14 @@
+{
+  "info": {
+    "background": "BrightBlue",
+    "color": "white"
+  },
+  "error": {
+    "background": "BrightRed",
+    "color": "white"
+  },
+  "warn": {
+    "background": "BrightYellow",
+    "color": "black"
+  }
+}

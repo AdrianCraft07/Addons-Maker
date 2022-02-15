@@ -1,0 +1,12 @@
+{
+  "name": "Chisel",
+  "description": "My addon",
+  "project": "projects",
+  "uuid": [
+    "e4b6e7d2-5ef6-4f9b-ac49-7b03c2224cae",
+    "5f3cf514-8eac-45ed-b47e-3b1a487ed7fb",
+    "f37372c4-ec7e-409e-8679-0a0c489e6b8b",
+    "09ce7dae-efaf-41c1-9bea-3f89d3381040"
+  ],
+  "pluginsOn": true
+}
